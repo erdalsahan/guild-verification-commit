@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-06T06:32:02.374Z
-Commit: Fix race condition in async operations
+Timestamp: 2026-03-06T06:32:23.413Z
+Commit: Add multi-language support
